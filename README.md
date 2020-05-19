@@ -49,7 +49,7 @@ gem install bundler
 ```
 6. From here, navigate to the src folder of the cloned repository by copying:
 ```
-cd ca-fun-fact-generator/src
+cd ca-fun-fact-generator/
 ```
 7. Now copy this into terminal to run the game:
 ```
