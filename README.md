@@ -41,7 +41,7 @@ cd ~/ *path to folder you want to install game at*
 ```
 4. Clone the files from this repository by copying the following command line:
 ```
-git clone https://github.com/SimoSultan/coding-bootcamp-text-adventure.git
+git clone https://github.com/SimoSultan/ca-fun-fact-generator.git
 ```
 5. If you have Bundler installed already, skip this step, otherwise install Bundler with:
 ```
@@ -49,11 +49,11 @@ gem install bundler
 ```
 6. From here, navigate to the src folder of the cloned repository by copying:
 ```
-cd coding-bootcamp-text-adventure/src
+cd ca-fun-fact-generator/src
 ```
 7. Now copy this into terminal to run the game:
 ```
-./run-YCV-app.sh
+./run-fun-fact.sh
 ```
 
 
